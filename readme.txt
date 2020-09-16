@@ -1,7 +1,7 @@
 Welcome to "Life on Earth" Documentary!!
 
 In this documentary we will explore how life on earth was 65 million years ago; when dinosaurs went extinct because of an Asteroid impact event
-Then we will move to the future (2020) to see how life on earth has changed !
+Then we will move to the future (2020) to see how life on earth has changed !  The project is implemented using cs1graphics library!
 
 Instructions
 In order to run the main file (Earth.py) correctly you need to :
